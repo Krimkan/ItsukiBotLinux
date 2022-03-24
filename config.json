@@ -1,0 +1,15 @@
+{
+    "TOKEN": "OTM1NTI2NTQ0NjkxMDQ4NDkw.Ye_6_Q.m8Nzd1U3nlOj25vtJBeOKSONiqQ",
+    "Prefix": "$",
+    "Theme": "default",
+    "antispam": true,
+    "antispamMessages": 5,
+    "antispamPunish": 1,
+    "antispamTimer": 3,
+    "antilink": true,
+    "antilinkPunish": 1,
+    "banDesc": "\u0417\u0430\u0431\u0430\u043d\u0435\u043d \u043d\u043e\u0432\u044b\u0439 \u0430\u043a\u043a\u0430\u0443\u043d\u0442",
+    "banNewAccounts": true,
+    "requiredDays": 2,
+    "autoDenyBotRoles": false
+}
