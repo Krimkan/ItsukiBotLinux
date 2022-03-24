@@ -34,7 +34,6 @@ pyparsing==3.0.7
 python-dateutil==2.8.2
 python-dotenv==0.19.2
 pytz==2021.3
-pywin32==303
 PyYAML==6.0
 requests==2.27.1
 rfc3986==2.0.0
