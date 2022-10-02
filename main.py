@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import asyncio
 import functools
 import itertools
@@ -82,7 +81,7 @@ def configs():
                 print('---------')
                 print(f'Чтобы зайти в настройки Напишите Y |Чтобы продолжить нажмите на Enter')
                 sIn = input('Подтвердить?')
-                if sIn == 'Y' or sIn == 'y':
+                if sIn == "Y" or sIn == "y":
                     print('---Настройки---')
                     print(f'TOKEN:{TOKEN} |Чтобы Изменить Пропишите TOKEN')
                     print(f'Prefix:{pr} |Чтобы Изменить Пропишите Prefix')
@@ -2252,4 +2251,4 @@ async def on_message(ctx):
                 return
     await client.process_commands(ctx)
 
-client.run(TOKEN, bot=True)
+client.run(TOKEN)

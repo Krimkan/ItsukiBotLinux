@@ -1,0 +1,6 @@
+venv
+config.json
+ffmpeg.exe
+ffprobe.exe
+server.db
+server.db-journal
